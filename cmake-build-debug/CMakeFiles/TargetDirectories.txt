@@ -1,0 +1,3 @@
+D:/stm32CubeMx/mpu6050_try1/cmake-build-debug/CMakeFiles/mpu6050_try1.elf.dir
+D:/stm32CubeMx/mpu6050_try1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/stm32CubeMx/mpu6050_try1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
